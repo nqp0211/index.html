@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <h1> Resume </h1>
+        <h2> Emily </h2>
+        <hr />
+        <body>
+            <dl>
+                <dt> Interests </dt>
+                <li> Drawing </li>
+                <li> Photography </li>
+                <li> Design </li>
+                <li> progamming </li>
+                <li> Computer Science </li>
+                <dt> Skills </dt>
+                <li> Web Design with Html & CSS </li>
+                <dt> Education </dt>
+                <li> Wilton High School </li>
+                <li> Silvermine School of Arts </li>
+                <li> Codeacademy </li>
+                <dt> Experience</dt>
+                <li> Student Technology Intern for Wilton School District </li>
+                <li> Babysitter </li>
+                <dt> Extracurriculars </dt>
+                <li> Recycling Club </li>
+                <li> Gardening Club</li>
+                <li> Book club </li>
+
+            </dl>
+        </body>
+    </head>
+</html>
+
